@@ -1,0 +1,3 @@
+map_name: v3_Navalland
+games:
+- {game_name: WW2v3-Navalland, file_name: v3_Navalland.xml}
